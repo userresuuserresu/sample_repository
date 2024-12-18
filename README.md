@@ -1,2 +1,4 @@
 # sample_repository
-This repository is for practicing the GitHub Flow. mainnnnnnnnnn
+This is sample text.
+=======
+This repository is for practicing the GitHub Flow.
